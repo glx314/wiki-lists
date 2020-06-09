@@ -1,0 +1,9 @@
+SECRET=thisisveryscret-donottellanybody
+BASE_URL=https://host/
+SMTP_HOST=smtp.scic-tetris.org
+SMTP_PORT=465
+SMTP_LOGIN=noreply@scic-tetris.org
+SMTP_PASS=GRpn74wfVykZPAKe
+SMTP_FROM=noreply@scic-tetris.org
+SMTP_SECURE=true
+SMTP_REJECT_UNAUTHORIZED=false
